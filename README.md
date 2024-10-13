@@ -112,7 +112,12 @@ Identifying passengers who have flown many miles but do not have a Delta account
 Determining which routes generate the most revenue will be helpful for management because these high-revenue routes could be prioritized to continue to increase Delta's revenue. Delta can achieve this by adding more flights to these routes, allocate more resources to these flights, and adjust the pricing to these flights.
 
 
+5. Analyze which class of seating is the most popular among frequent flyers (Delta Account members who have over 50,000 miles).
 
+   
+<img width="684" alt="Screenshot 2024-10-13 at 4 42 59 PM" src="https://github.com/user-attachments/assets/62418236-9017-47e6-a82f-549b041e0f8c">
+
+Identifying the most popular class seating fo the most frequent flyers will help management understand these high-value customers' preferences. This information can be used to adjust the availability of the seats in each class accordingly. This allows for there to be the proper amount of seating to be available in each class to have room for the more profitable customers.
 
 
 
