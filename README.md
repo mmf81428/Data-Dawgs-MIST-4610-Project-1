@@ -68,6 +68,34 @@ The flight crew entity has a many-to-many relationship with the employee entity.
 <img width="717" alt="Screenshot 2024-10-13 at 4 07 13 PM" src="https://github.com/user-attachments/assets/3db5ae1a-72eb-4963-96ea-b79ede299094">
 
 
+# Queries
+
+<img width="707" alt="Screenshot 2024-10-13 at 4 11 04 PM" src="https://github.com/user-attachments/assets/4490e5d3-a8e9-4e23-8ece-3e4f63cef199">
+
+Complex Queries
+1. Display the New York passengers who's trips on average are lower than other passengers' average miles from New York
+
+<img width="677" alt="Screenshot 2024-10-13 at 4 14 14 PM" src="https://github.com/user-attachments/assets/ffacba3d-eb62-48de-b52b-781e91cc802a">
+
+Identifying New York passengers with trips that have lower average mileage than other passengers' average mileage from New York helps management identify customers that Delta needs to entice more to go on more trips to increase revenue. Delta's team could use these identified customers in New York to study and get the marketing team, advertising team, customer service team, and more to work on different strategies to target these people to go on more trips with Delta.
+
+
+2. Identify the flight crew members who have worked the most hours and more than the average hours of a flight crew. 
+
+
+<img width="630" alt="Screenshot 2024-10-13 at 4 22 26 PM" src="https://github.com/user-attachments/assets/58fbbc36-846b-4a46-b70e-a557f82bfcaf">
+
+
+Displaying flight crew members with the most hours that are more than the average hours of a flight crew will help managers distribute workload evenly and prevent overworking employees. Bringing attention to these flight crew employees that are working many hours allows management to analyze these employees and their hours. If there are employees working too many hours, management will be able to see that from the results of this query and will adjust the schedules accordingly.
+
+3. Identify passengers who have flown the most miles and have more than 5000 miles but have not signed up for a Delta account.
+
+
+<img width="677" alt="Screenshot 2024-10-13 at 4 29 09 PM" src="https://github.com/user-attachments/assets/83bf3d5d-2e2a-468f-b7fd-2a23f0573051">
+
+
+Identifying passengers who have flown many miles but do not have a Delta account will help management figure out what passengers to target for a loyalty program. Enticing these high-value passengers to join a loyalty program could help increase retention as well as improve customer experience for those who are frequent fliers.
+
 
 
 
