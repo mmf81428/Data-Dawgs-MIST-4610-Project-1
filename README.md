@@ -103,7 +103,7 @@ Displaying flight crew members with the most hours that are more than the averag
 
 Identifying passengers who have flown many miles but do not have a Delta account will help management figure out what passengers to target for a loyalty program. Enticing these high-value passengers to join a loyalty program could help increase retention as well as improve customer experience for those who are frequent fliers.
 
-4. Determine which 10 routs (from departing airport to arriving airport) generate the most revenue.
+4. Determine which 10 routes (from departing airport to arriving airport) generate the most revenue.
 
 
 <img width="476" alt="Screenshot 2024-10-13 at 4 34 57 PM" src="https://github.com/user-attachments/assets/a5b53aa3-8368-4796-b31c-176eee2b0e65">
