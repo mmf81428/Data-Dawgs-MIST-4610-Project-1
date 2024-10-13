@@ -119,7 +119,7 @@ Determining which routes generate the most revenue will be helpful for managemen
    
 <img width="684" alt="Screenshot 2024-10-13 at 4 42 59 PM" src="https://github.com/user-attachments/assets/62418236-9017-47e6-a82f-549b041e0f8c">
 
-Identifying the most popular class seating fo the most frequent flyers will help management understand these high-value customers' preferences. This information can be used to adjust the availability of the seats in each class accordingly. This allows for there to be the proper amount of seating to be available in each class to have room for the more profitable customers.
+Identifying the most popular class seating for the most frequent flyers will help management understand these high-value customers' preferences. This information can be used to adjust the availability of the seats in each class accordingly. This allows for there to be the proper amount of seating to be available in each class to have room for the more profitable customers.
 
 6. Show the captains with the most experience (longest amount of time at delta) who have worked at Delta for at least 10 years and display their total hours and miles they have spent flying for this given time period.
 
@@ -139,12 +139,12 @@ Identifying the more experienced captains can help management improve operationa
 
 This information will tell Delta which regions and states they should focus their marketing towards as these areas are where their most frequent flyers are located. In turn, knowing this information can also give Delta an idea about areas they should make sure they are providing the best quality services and flights to their most loyal customers.
 
-8. Display the number of times a flight as arrived at each airport.
+8. Display the number of times a flight has arrived at each airport.
 
    
 <img width="578" alt="Screenshot 2024-10-13 at 5 03 01 PM" src="https://github.com/user-attachments/assets/62468af3-33ce-4e87-8b22-a4048b17dad5">
 
-This will tell Delta where their planes fly to the most and give an idea of the locations where they should focus their services and quality of their lounges on. 
+This will tell Delta where their planes fly to the most and give an idea of the locations where they should focus their services and quality of their lounges on. This may also help tell management how to adjust flight scheduling to accommodate to more customers by scheudling more flights at these aiports.
 
 9. Display the airplane brand that is used the most at Delta.
 
@@ -161,7 +161,7 @@ This can show delta which plane brands are most optimal for flying and who are m
 <img width="692" alt="Screenshot 2024-10-13 at 5 04 26 PM" src="https://github.com/user-attachments/assets/c2d6cc0f-7538-43e4-876c-f4edcb2d336e">
 
 
-This can show Delta around how many bags they are going to have when they are traveling to a certain destination. In turn, they have a predetermined estimate of about how much extra weight is going to be on certain flights so they can plan accordingly. 
+This can show Delta around how many bags passengers are going to have when they are traveling to a certain destination. In turn, they have a predetermined estimate of about how much extra weight is going to be on certain flights so they can plan accordingly. 
 
 
 # Database information
