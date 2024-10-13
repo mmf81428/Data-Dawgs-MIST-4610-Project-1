@@ -80,7 +80,7 @@ The flight crew entity has a many-to-many relationship with the employee entity.
 <img width="707" alt="Screenshot 2024-10-13 at 4 11 04 PM" src="https://github.com/user-attachments/assets/4490e5d3-a8e9-4e23-8ece-3e4f63cef199">
 
 Complex Queries
-1. Display the New York passengers who's trips on average are lower than other passengers' average miles from New York
+1. Display the New York passengers who's trips on average are lower than other passengers' average miles from New York.
 
 <img width="677" alt="Screenshot 2024-10-13 at 4 14 14 PM" src="https://github.com/user-attachments/assets/ffacba3d-eb62-48de-b52b-781e91cc802a">
 
@@ -119,8 +119,48 @@ Determining which routes generate the most revenue will be helpful for managemen
 
 Identifying the most popular class seating fo the most frequent flyers will help management understand these high-value customers' preferences. This information can be used to adjust the availability of the seats in each class accordingly. This allows for there to be the proper amount of seating to be available in each class to have room for the more profitable customers.
 
+6. Show the captains with the most experience (longest amount of time at delta) who have worked at Delta for at least 10 years and display their total hours and miles they have spent flying for this given time period.
 
 
+<img width="681" alt="Screenshot 2024-10-13 at 4 52 56 PM" src="https://github.com/user-attachments/assets/57823f10-16a0-4650-9feb-ae61ae13ce09">
+
+
+Identifying the more experienced captains can help management improve operational excellence in a few ways. For example, these captians can be helpful with mentoring and training. Management can identify which captains to schedule to mentor other less expereinced pilots to help with safety and efficiency. Delta may also schedule these captains to be on more difficult and critical routes. This can also help management plan for retirements and create a smoother process with hiring.
+
+
+Simple Queries
+7. Display the passengers who have the most miles and where they are from (city and state).
+
+
+<img width="545" alt="Screenshot 2024-10-13 at 5 02 27 PM" src="https://github.com/user-attachments/assets/aaa4e17f-d2aa-411b-b71d-ec3cbc3ce405">
+
+
+
+
+8. Display the number of times a flight as arrived at each airport.
+
+   
+<img width="578" alt="Screenshot 2024-10-13 at 5 03 01 PM" src="https://github.com/user-attachments/assets/62468af3-33ce-4e87-8b22-a4048b17dad5">
+
+
+
+
+9. Display the airplane brand that is used the most at Delta.
+
+
+<img width="680" alt="Screenshot 2024-10-13 at 5 03 48 PM" src="https://github.com/user-attachments/assets/5fe22aa1-31ca-4167-aace-40254585ecec">
+
+
+
+
+
+10. Display the average amount of bags that are brought by each passenger when traveling to different locations.
+
+    
+<img width="692" alt="Screenshot 2024-10-13 at 5 04 26 PM" src="https://github.com/user-attachments/assets/c2d6cc0f-7538-43e4-876c-f4edcb2d336e">
+
+
+This can show Delta around how many bags they are going to have when they are traveling to a certain destination.
 
 
 
