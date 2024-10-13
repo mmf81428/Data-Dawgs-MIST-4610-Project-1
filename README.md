@@ -164,7 +164,9 @@ This can show delta which plane brands are most optimal for flying and who are m
 This can show Delta around how many bags they are going to have when they are traveling to a certain destination. In turn, they have a predetermined estimate of about how much extra weight is going to be on certain flights so they can plan accordingly. 
 
 
+# Database information
 
+Name of the database: cs_ald39331
 
 
 
