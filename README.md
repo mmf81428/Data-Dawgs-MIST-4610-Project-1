@@ -4,4 +4,5 @@
 15058 Data Dawgs
 
 #Team Members:
-1. Anabelle Dolhun @
+1. Anabelle Dolhun @Anabelledolhun
+2. Hailey Franz @Haileyfranz
