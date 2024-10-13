@@ -27,5 +27,8 @@ The ticket entity has a one-to-many relationship with the flight entity. A fligh
 The flight entity has a one-to-many relationship to the airplane entity. An airplane can have many different flights that it is used for, while a flight only uses one specific airplane. This relationship is non-identifying, because an airplane is not identified by its flight. 
 The flight entity also has a one-to-many relationship with the flight crew entity. A flight crew can go on multiple flights but a flight only has one specific flight crew. This relationship is non-identifying because a flight is not identified by the flight crew that is on it. 
 The flight crew entity has a many-to-many relationship with the employee entity. A flight crew can have multiple employees and an employee can work on many different flight crews. This relationship is identifying because you need to know both the employee and the flight crew they were working on to identify an employee on a flight crew. The weak entity of this many to many relationship, flight_crew_employee, is used to help connect the relationships. This entity helps identify the flight crew for a specific flight and what each of the employee’s specific roles were.
+
+
+
 <img width="427" alt="Screenshot 2024-10-13 at 4 03 40 PM" src="https://github.com/user-attachments/assets/a50e00ff-4843-47e1-a25f-de4fcca3cf35">
 
