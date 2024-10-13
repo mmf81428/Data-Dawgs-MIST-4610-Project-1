@@ -32,3 +32,57 @@ The flight crew entity has a many-to-many relationship with the employee entity.
 
 <img width="427" alt="Screenshot 2024-10-13 at 4 03 40 PM" src="https://github.com/user-attachments/assets/a50e00ff-4843-47e1-a25f-de4fcca3cf35">
 
+# Data Dictionary
+
+<img width="716" alt="Screenshot 2024-10-13 at 4 05 34 PM" src="https://github.com/user-attachments/assets/35ac2af3-440c-4fc2-a294-ca31bfe69cb0">
+
+
+<img width="699" alt="Screenshot 2024-10-13 at 4 05 40 PM" src="https://github.com/user-attachments/assets/a92a0e6d-8e4d-40fd-b0d8-453889b2d891">
+
+
+<img width="763" alt="Screenshot 2024-10-13 at 4 05 57 PM" src="https://github.com/user-attachments/assets/89edad8c-4ffd-4bca-8b97-d1772efda15e">
+
+
+<img width="765" alt="Screenshot 2024-10-13 at 4 06 04 PM" src="https://github.com/user-attachments/assets/d5409307-3075-4348-9ded-b9dac8190fc3">
+
+
+<img width="719" alt="Screenshot 2024-10-13 at 4 06 11 PM" src="https://github.com/user-attachments/assets/4b93043e-0373-4f19-ac69-1191b584876f">
+
+
+<img width="713" alt="Screenshot 2024-10-13 at 4 06 17 PM" src="https://github.com/user-attachments/assets/a4c5f7b3-3991-4910-9bf7-cb9c71413cae">
+
+
+<img width="705" alt="Screenshot 2024-10-13 at 4 06 24 PM" src="https://github.com/user-attachments/assets/8c986c03-c8a4-4762-b99e-88406bdd8964">
+
+
+
+<img width="701" alt="Screenshot 2024-10-13 at 4 06 29 PM" src="https://github.com/user-attachments/assets/7c0c8634-a2f5-4988-ba10-700f0b4c7c0c">
+
+
+<img width="712" alt="Screenshot 2024-10-13 at 4 06 36 PM" src="https://github.com/user-attachments/assets/206089a0-b93a-4500-99b7-40120e05de8b">
+
+
+<img width="710" alt="Screenshot 2024-10-13 at 4 06 42 PM" src="https://github.com/user-attachments/assets/b262babb-157c-4d1f-99a2-f29a010689da">
+
+
+<img width="717" alt="Screenshot 2024-10-13 at 4 07 13 PM" src="https://github.com/user-attachments/assets/3db5ae1a-72eb-4963-96ea-b79ede299094">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
