@@ -129,6 +129,7 @@ Identifying the more experienced captains can help management improve operationa
 
 
 Simple Queries
+
 7. Display the passengers who have the most miles and where they are from (city and state).
 
 
