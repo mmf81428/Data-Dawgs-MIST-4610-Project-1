@@ -79,7 +79,7 @@ The flight crew entity has a many-to-many relationship with the employee entity.
 
 <img width="707" alt="Screenshot 2024-10-13 at 4 11 04 PM" src="https://github.com/user-attachments/assets/4490e5d3-a8e9-4e23-8ece-3e4f63cef199">
 
-##Complex Queries (6)
+## Complex Queries (6)
 1. Display the New York passengers who's trips on average are lower than other passengers' average miles from New York.
 
 <img width="677" alt="Screenshot 2024-10-13 at 4 14 14 PM" src="https://github.com/user-attachments/assets/ffacba3d-eb62-48de-b52b-781e91cc802a">
@@ -128,7 +128,7 @@ Identifying the most popular class seating fo the most frequent flyers will help
 Identifying the more experienced captains can help management improve operational excellence in a few ways. For example, these captians can be helpful with mentoring and training. Management can identify which captains to schedule to mentor other less expereinced pilots to help with safety and efficiency. Delta may also schedule these captains to be on more difficult and critical routes. This can also help management plan for retirements and create a smoother process with hiring.
 
 
-##Simple Queries (4)
+## Simple Queries (4)
 
 7. Display the passengers who have the most miles and where they are from (city and state).
 
