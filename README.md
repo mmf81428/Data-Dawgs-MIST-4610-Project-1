@@ -8,7 +8,7 @@
 2. Hailey Franz - [@Haileyfranz](https://www.github.com/Haileyfranz)
 3. Madeleine Fordham - [@mmf81428](https://www.github.com/mmf81428)
 4. Alex Craig - [@ACC69908](https://www.github.com/ACC69908)
-5. Dakota Corry
+5. Dakota Corry - [@dakotamarie](https://www.github.com/dakotamarie)
 
 # Scenario Description
 The goal of this project is to model and implement a relational database system to help manage essential operational data for Delta airlines. The system mostly branches off from the main entity, trip, that connects information about airports, flights, tickets, baggage, passengers, and more through their relationships. This model is used to help centralize and organize key operational data improving efficiency in areas such as flight management, customer service, baggage handling, and employee assignments. The project includes queries to help produce and analyze data that can be used to enhance the overall experience for both the staff and passengers at Delta Airlines.
