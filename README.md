@@ -79,7 +79,7 @@ The flight crew entity has a many-to-many relationship with the employee entity.
 
 <img width="707" alt="Screenshot 2024-10-13 at 4 11 04 PM" src="https://github.com/user-attachments/assets/4490e5d3-a8e9-4e23-8ece-3e4f63cef199">
 
-Complex Queries
+##Complex Queries (6)
 1. Display the New York passengers who's trips on average are lower than other passengers' average miles from New York.
 
 <img width="677" alt="Screenshot 2024-10-13 at 4 14 14 PM" src="https://github.com/user-attachments/assets/ffacba3d-eb62-48de-b52b-781e91cc802a">
@@ -128,23 +128,21 @@ Identifying the most popular class seating fo the most frequent flyers will help
 Identifying the more experienced captains can help management improve operational excellence in a few ways. For example, these captians can be helpful with mentoring and training. Management can identify which captains to schedule to mentor other less expereinced pilots to help with safety and efficiency. Delta may also schedule these captains to be on more difficult and critical routes. This can also help management plan for retirements and create a smoother process with hiring.
 
 
-Simple Queries
+##Simple Queries (4)
 
 7. Display the passengers who have the most miles and where they are from (city and state).
 
 
 <img width="545" alt="Screenshot 2024-10-13 at 5 02 27 PM" src="https://github.com/user-attachments/assets/aaa4e17f-d2aa-411b-b71d-ec3cbc3ce405">
 
-
-
+This information will tell Delta which regions and states they should focus their marketing towards as these areas are where their most frequent flyers are located. In turn, knowing this information can also give Delta an idea about areas they should make sure they are providing the best quality services and flights to their most loyal customers.
 
 8. Display the number of times a flight as arrived at each airport.
 
    
 <img width="578" alt="Screenshot 2024-10-13 at 5 03 01 PM" src="https://github.com/user-attachments/assets/62468af3-33ce-4e87-8b22-a4048b17dad5">
 
-
-
+This will tell Delta where their planes fly to the most and give an idea of the locations where they should focus their services and quality of their lounges on. 
 
 9. Display the airplane brand that is used the most at Delta.
 
@@ -152,7 +150,7 @@ Simple Queries
 <img width="680" alt="Screenshot 2024-10-13 at 5 03 48 PM" src="https://github.com/user-attachments/assets/5fe22aa1-31ca-4167-aace-40254585ecec">
 
 
-
+This can show delta which plane brands are most optimal for flying and who are major suppliers are. Knowing this information can allow delta to know which clients to prioritize and who they are most loyal to. 
 
 
 10. Display the average amount of bags that are brought by each passenger when traveling to different locations.
@@ -161,7 +159,7 @@ Simple Queries
 <img width="692" alt="Screenshot 2024-10-13 at 5 04 26 PM" src="https://github.com/user-attachments/assets/c2d6cc0f-7538-43e4-876c-f4edcb2d336e">
 
 
-This can show Delta around how many bags they are going to have when they are traveling to a certain destination.
+This can show Delta around how many bags they are going to have when they are traveling to a certain destination. In turn, they have a predetermined estimate of about how much extra weight is going to be on certain flights so they can plan accordingly. 
 
 
 
